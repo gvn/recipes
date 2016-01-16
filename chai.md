@@ -1,4 +1,4 @@
-j# Vegan Chai
+# Vegan Chai
 
 ## Ingredients
 
